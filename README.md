@@ -112,10 +112,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to Dr. Wee Kek Tan for mentorship and guidance during the project.
-- Thanks to the National University of Singapore for the research internship opportunity.
 
 ---
 
